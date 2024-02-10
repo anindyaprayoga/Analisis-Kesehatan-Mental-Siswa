@@ -1,7 +1,7 @@
 # Analisis Kesehatan Mental Mahasiswa
 
 ## Deskripsi Proyek
-Proyek ini bertujuan untuk menganalisis data kesehatan mental mahasiswa menggunakan SQL Server. Data yang digunakan dalam proyek ini mencakup informasi demografis mahasiswa, CGPA, dan kondisi kesehatan mental mereka.
+Proyek ini menganalisis data kesehatan mental siswa menggunakan SQL Server. Data yang digunakan dalam proyek ini mencakup informasi demografis siswa, CGPA, dan kondisi kesehatan mental mereka.
 
 ## Dataset
 Dataset didapatkan dari kaggle pada link berikut : https://www.kaggle.com/datasets/shariful07/student-mental-health
